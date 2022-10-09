@@ -1,4 +1,7 @@
-fx_version "cerulean"
-game { "gta5" }
+fx_version 'cerulean'
+game 'gta5'
+made_by 'Dolu'
 
-data_file 'DLC_ITYP_REQUEST' 'stream/npwd_phones.ytyp'
+this_is_a_map 'yes'
+
+data_file 'DLC_ITYP_REQUEST' 'stream/dolu_npwd.ytyp'
